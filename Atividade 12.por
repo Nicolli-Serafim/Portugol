@@ -1,0 +1,51 @@
+programa
+{inteiro n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, total
+	
+	funcao inicio()
+	{escreva ("Digite um número: ")
+	leia(n1)
+	escreva ("Digite um número: ")
+	leia(n2)
+	escreva ("Digite um número: ")
+	leia(n3)
+	escreva ("Digite um número: ")
+	leia(n4)
+	escreva ("Digite um número: ")
+	leia(n5)
+	escreva ("Digite um número: ")
+	leia(n6)
+	escreva ("Digite um número: ")
+	leia(n7)
+	escreva ("Digite um número: ")
+	leia(n8)
+	escreva ("Digite um número: ")
+	leia(n9)
+	escreva ("Digite um número: ")
+	leia(n10)
+
+	
+	total = (n1+n2+n3+n4+n5+n6+n7+n8+n9+n10)
+
+	escreva ("O total da soma de todos números é: ", total)
+
+
+
+
+
+
+
+
+	
+	}
+}
+/* $$$ Portugol Studio $$$ 
+ * 
+ * Esta seção do arquivo guarda informações do Portugol Studio.
+ * Você pode apagá-la se estiver utilizando outro editor.
+ * 
+ * @POSICAO-CURSOR = 612; 
+ * @PONTOS-DE-PARADA = ;
+ * @SIMBOLOS-INSPECIONADOS = ;
+ * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
+ * @FILTRO-ARVORE-TIPOS-DE-SIMBOLO = variavel, vetor, matriz, funcao;
+ */
